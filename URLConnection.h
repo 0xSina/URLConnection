@@ -1,8 +1,6 @@
 
 
 // some changes for 1.2
-
-// Commit 1
 #import <Foundation/Foundation.h>
 
 typedef void (^URLConnectionCompletionBlock)        (NSData *data, NSURLResponse *response);
